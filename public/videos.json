@@ -3,19 +3,19 @@
     {
       "id": 1,
       "name": "A Ha - Take On Me",
-      "file": "/videos/a-ha - Take On Me.mp4",
+      "file": "https://identity.getpostman.com/login?continue=https%3A%2F%2Fweb.postman.co%2F",
       "isPlaying": false
     },
     {
       "id": 2,
       "name": "El Chombo - Dame Tu Cosita feat. Cutty Ranks",
-      "file": "/videos/El Chombo - Dame Tu Cosita feat. Cutty Ranks.mp4",
+      "file": "/videos/video-01.mp4",
       "isPlaying": false
     },
     {
       "id": 3,
       "name": "Lofi Boy - The Struggle In The 90s",
-      "file": "/videos/Lofi Boy - The Struggle In The 90s.mp4",
+      "file": "/videos/video-02.mp4",
       "isPlaying": false
     }
   ]
